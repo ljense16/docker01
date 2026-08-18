@@ -36,7 +36,7 @@ cat > /etc/xray/config.json <<EOF
     "port": 8080,
     "protocol": "vless",
     "settings": {
-      "clients": [{"id": "9b191c56-d0fd-6889-ac99-3016ba36a189"}],
+      "clients": [{"id": "82d80e12-5d90-4678-9467-2e977f2a48a9"}],
       "decryption": "none"
     },
     "streamSettings": {
