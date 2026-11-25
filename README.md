@@ -1,6 +1,3 @@
-# docker-ubuntu-desktop
-Ubuntu Desktop Web Browser Accessible Docker Image
-
 ## Usage
 ```
 $ docker run -it --platform=linux/amd64 -p 6080:6080 akarita/docker-ubuntu-desktop
